@@ -1,5 +1,5 @@
 {
-  "name": "js-quiz-starter",
+  "name": "Interactive-js-quiz",
   "version": "1.0.0",
   "scripts": {
     "prettier:write": "prettier --write .",
